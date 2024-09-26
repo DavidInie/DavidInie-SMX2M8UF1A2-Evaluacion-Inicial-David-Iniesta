@@ -14,7 +14,7 @@ Es un herramienta que te ayuda a crear, editar y gestionar documentos.
 
 |__Aplicaciones__|**_Visto_** |
 |-----------|:----------:|
-|Google Docs |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg "Titulo opcional de la igamen")width="200"/|
+|Google Docs |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg "Titulo opcional de la igamen")|
 |Google Slides |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg "Titulo opcional de la igamen")|
 |Google Sheets |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg "Titulo opcional de la igamen")|
 |Google Calander|![Calendario](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/R.png "Titulo opcional de la igamen")|
@@ -24,7 +24,7 @@ Es un herramienta que te ayuda a crear, editar y gestionar documentos.
 6. ¿ Qué es __HTML__ ?
 Es el código que se utiliza para estructurar y desplegar una página web y sus contenidos. 
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
