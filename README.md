@@ -13,7 +13,7 @@ Es un herramienta que te ayuda a crear, editar y gestionar documentos.
 5.[Herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de google")
 
 |__Aplicaciones__|**_Visto_** |
-|---------------|:----------:|
+|-----------|:----------:|
 |Google Docs |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg "Titulo opcional de la igamen")|
 |Google Slides |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg "Titulo opcional de la igamen")|
 |Google Sheets |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg "Titulo opcional de la igamen")|
