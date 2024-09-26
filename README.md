@@ -1,13 +1,13 @@
 # DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta
 Primera actividad
 
-1. ¿ Qué es una pagina web?
+1. __¿ Qué es una pagina web?__
 Es un espacio que contiene información.
-2. ¿Qué es un sitio web?
+2. __¿Qué es un sitio web?__
 Un sitio web es un conjunto de páginas en internet que contienen información como imágenes, videos...
-3. ¿Qué es una aplicación web?
+3. __¿Qué es una aplicación web?__
 Una aplicación web es un programa que funciona a través de internet, al que accedes desde un navegador.
-4. ¿Qué es una herramienta ofimática?
+4. __¿Qué es una herramienta ofimática?__
 Es un herramienta que te ayuda a crear, editar y gestionar documentos.
 
 5.[Herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de google")
@@ -22,7 +22,7 @@ Es un herramienta que te ayuda a crear, editar y gestionar documentos.
 |...|...|
 
 
-6. ¿ Qué es __HTML__ ?
+__6. ¿ Qué es __HTML__ ?__
 Es el código que se utiliza para estructurar y desplegar una página web y sus contenidos. 
 
 ```
@@ -41,10 +41,10 @@ Es el código que se utiliza para estructurar y desplegar una página web y sus 
 ```
 
 
-7. ¿Qué es CSS?
+__7. ¿Qué es CSS?__
 Es un lenguaje que se usa para dar estilo y formato a las páginas web. 
 
-8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+__8. Flujo de trabajo (navegador, petición, servidor y respuesta):__
 <img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-09-26%20122341.png" alt="Visto" width="500"/>
 
 
