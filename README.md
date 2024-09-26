@@ -36,6 +36,7 @@ Es el código que se utiliza para estructurar y desplegar una página web y sus 
 
 </body>
 </html>
+```
 
 
 7. ¿Qué es CSS?
