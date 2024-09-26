@@ -57,7 +57,24 @@ __8. Flujo de trabajo (navegador, petición, servidor y respuesta):__
 <img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-09-26%20122341.png" alt="Visto" width="500"/>
 
 
-
+<table>
+  <thead>
+    <tr style="background-color: #141394; color: azulfuerte;">
+      <th>Aplicaciones</th>
+      <th>Visto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #0000ff;">
+      <td>Google Docs</td>
+      <td>Google Slides</td>
+      <td>Google Sheets</td>
+      <td>Google Calander</td>
+      <td>Google Meet</td>
+    </tr>
+   
+  </tbody>
+</table>
 
 
 
