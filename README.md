@@ -2,15 +2,19 @@
 Primera actividad
 
 __1. ¿ Qué es una pagina web?__
+
 Es un espacio que contiene información.
 
 __2. ¿Qué es un sitio web?__
+
 Un sitio web es un conjunto de páginas en internet que contienen información como imágenes, videos...
 
 __3. ¿Qué es una aplicación web?__
+
 Una aplicación web es un programa que funciona a través de internet, al que accedes desde un navegador.
 
 __4. ¿Qué es una herramienta ofimática?__
+
 Es un herramienta que te ayuda a crear, editar y gestionar documentos.
 
 5.[Herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de google")
@@ -26,6 +30,7 @@ Es un herramienta que te ayuda a crear, editar y gestionar documentos.
 
 
 __6. ¿ Qué es __HTML__ ?__
+
 Es el código que se utiliza para estructurar y desplegar una página web y sus contenidos. 
 
 ```
@@ -45,6 +50,7 @@ Es el código que se utiliza para estructurar y desplegar una página web y sus 
 
 
 __7. ¿Qué es CSS?__
+
 Es un lenguaje que se usa para dar estilo y formato a las páginas web. 
 
 __8. Flujo de trabajo (navegador, petición, servidor y respuesta):__
