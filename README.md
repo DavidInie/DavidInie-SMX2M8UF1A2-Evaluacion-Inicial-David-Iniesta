@@ -14,11 +14,11 @@ Es un herramienta que te ayuda a crear, editar y gestionar documentos.
 
 |__Aplicaciones__|**_Visto_** |
 |-----------|:----------:|
-|Google Docs |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg "Titulo opcional de la igamen") width="35" height="30"|
-|Google Slides |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg "Titulo opcional de la igamen") width="35" height="30"|
-|Google Sheets |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg "Titulo opcional de la igamen") width="35" height="30"|
-|Google Calander|![Calendario](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/R.png "Titulo opcional de la igamen") width="35" height="30"|
-|Google Meet|![Ordenador](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/OIP.jpeg "Titulo opcional de la igamen") width="35" height="30"|
+|Google Docs |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg width="35" height="30" "Titulo opcional de la igamen")|
+|Google Slides |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg width="35" height="30" "Titulo opcional de la igamen")|
+|Google Sheets |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg width="35" height="30" "Titulo opcional de la igamen")|
+|Google Calander|![Calendario](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/R.png width="35" height="30" "Titulo opcional de la igamen")|
+|Google Meet|![Ordenador](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/OIP.jpeg width="35" height="30" "Titulo opcional de la igamen")|
 |...|...|
 
 6. ¿ Qué es __HTML__ ?
