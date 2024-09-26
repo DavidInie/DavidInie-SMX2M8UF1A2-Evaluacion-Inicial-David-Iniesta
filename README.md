@@ -14,12 +14,13 @@ Es un herramienta que te ayuda a crear, editar y gestionar documentos.
 
 |__Aplicaciones__|**_Visto_** |
 |-----------|:----------:|
-|Google Docs |<img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg " alt="Descripción de la imagen" width="200"/>|
-|Google Slides |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg "Titulo opcional de la igamen")|
-|Google Sheets |![Visto](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg "Titulo opcional de la igamen")|
-|Google Calander|![Calendario](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/R.png "Titulo opcional de la igamen")|
-|Google Meet|![Ordenador](https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/OIP.jpeg "Titulo opcional de la igamen")|
+|Google Docs |<img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg " alt="Descripción de la imagen" width="40"/>|
+|Google Slides |<img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg " alt="Descripción de la imagen" width="40"/>|
+|Google Sheets |<img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg " alt="Descripción de la imagen" width="40"/>|
+|Google Calander|<img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/R.png  " alt="Descripción de la imagen" width="40"/>|
+|Google Meet|![Ordenador]<img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/OIP.jpeg  " alt="Descripción de la imagen" width="40"/>|
 |...|...|
+
 
 6. ¿ Qué es __HTML__ ?
 Es el código que se utiliza para estructurar y desplegar una página web y sus contenidos. 
