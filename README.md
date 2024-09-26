@@ -1,13 +1,13 @@
 # DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta
 Primera actividad
 
-1. __¿ Qué es una pagina web?__
+__1. ¿ Qué es una pagina web?__
 Es un espacio que contiene información.
-2. __¿Qué es un sitio web?__
+__2. ¿Qué es un sitio web?__
 Un sitio web es un conjunto de páginas en internet que contienen información como imágenes, videos...
-3. __¿Qué es una aplicación web?__
+__3. ¿Qué es una aplicación web?__
 Una aplicación web es un programa que funciona a través de internet, al que accedes desde un navegador.
-4. __¿Qué es una herramienta ofimática?__
+__4. ¿Qué es una herramienta ofimática?__
 Es un herramienta que te ayuda a crear, editar y gestionar documentos.
 
 5.[Herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de google")
@@ -18,7 +18,7 @@ Es un herramienta que te ayuda a crear, editar y gestionar documentos.
 |Google Slides |<img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg" alt="Visto" width="40"/>|
 |Google Sheets |<img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/VIsto.jpeg" alt="Visto" width="40"/>|
 |Google Calander|<img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/R.png" alt="Calendario" width="40"/>|
-|Google Meet|<img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/OIP.jpeg" alt="Ordenador"="40"/>|
+|Google Meet|<img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/OIP.jpeg" alt="Ordenador" width="40"/>|
 |...|...|
 
 
