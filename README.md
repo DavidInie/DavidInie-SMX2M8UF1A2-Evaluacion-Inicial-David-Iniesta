@@ -17,7 +17,7 @@ __4. ¿Qué es una herramienta ofimática?__
 
 *Es un herramienta que te ayuda a crear, editar y gestionar documentos.*
 
-__5__.[Herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de google")
+__5.__ [Herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de google")
 
 |__Aplicaciones__|**_Visto_** |
 |-----------|:----------:|
