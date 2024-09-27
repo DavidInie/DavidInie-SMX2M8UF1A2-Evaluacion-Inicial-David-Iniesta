@@ -54,7 +54,10 @@ __7. ¿Qué es CSS?__
 *Es un lenguaje que se usa para dar estilo y formato a las páginas web.*
 
 __8. Flujo de trabajo (navegador, petición, servidor y respuesta):__
-<img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-09-26%20122341.png" alt="Visto" width="500"/>
+
+<div align="center">
+  <img src="https://github.com/DavidInie/DavidInie-SMX2M8UF1A2-Evaluacion-Inicial-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-09-26%20122341.png" alt="Flujo de trabajo" width="500">
+</div>
 
 
 
